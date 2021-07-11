@@ -8,15 +8,15 @@ class V1::ProjectsController < ApplicationController
         render json: project
     end
 
-    # def create
-    #     # to do ..
-    # end
+    def create
+        # to do ..
+    end
 
-    # def update
-    #     # to do ..
-    # end
+    def update
+        # to do ..
+    end
 
-    # def delete
-    #     # to do ..
-    # end
+    def delete
+        # to do ..
+    end
 end
