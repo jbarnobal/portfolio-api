@@ -17,6 +17,6 @@ class V1::ProjectsController < ApplicationController
     end
 
     def delete
-        # to do ..
+        # to do .. deploy in heroku
     end
 end
